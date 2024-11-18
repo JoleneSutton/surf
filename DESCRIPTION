@@ -1,5 +1,5 @@
 Package: surf
-Title: surf: Several useful R functions
+Title: surf: several useful R functions
 Version: 0.0.0.9000
 Authors@R: 
     person("Jolene", "Sutton", , "jolene.sutton@gmail.com", role = c("aut", "cre"))
