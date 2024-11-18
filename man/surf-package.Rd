@@ -12,6 +12,7 @@ An assortment of functions for different projects.
 Useful links:
 \itemize{
   \item \url{https://github.com/JoleneSutton/surf}
+  \item \url{https://jolenesutton.github.io/surf/}
   \item Report bugs at \url{https://github.com/JoleneSutton/surf/issues}
 }
 
