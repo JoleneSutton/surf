@@ -4,7 +4,7 @@
 \name{surf-package}
 \alias{surf}
 \alias{surf-package}
-\title{surf: surf: Several useful R functions}
+\title{surf: surf: several useful R functions}
 \description{
 An assortment of functions for different projects.
 }
