@@ -1,3 +1,4 @@
 # surf (development version)
 
-* Initial CRAN submission.
+# 2024-11-18
+* package creation
