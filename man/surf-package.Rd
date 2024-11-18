@@ -18,7 +18,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Jolene Sutton \email{jolene.sutton@dfo-mpo.gc.ca}
+\strong{Maintainer}: Jolene Sutton \email{jolene.sutton@gmail.com}
 
 }
 \keyword{internal}
