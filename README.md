@@ -8,8 +8,6 @@
 [![R-CMD-check](https://github.com/JoleneSutton/surf/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/JoleneSutton/surf/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of surf is to …
-
 ## Installation
 
 You can install the development version of surf from
