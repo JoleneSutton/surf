@@ -10,7 +10,7 @@
 
 ## Installation
 
-You can install the development version of surf from
+You can install the development version of *surf* from
 [GitHub](https://github.com/) with:
 
 ``` r
