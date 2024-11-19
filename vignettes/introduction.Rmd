@@ -18,6 +18,12 @@ knitr::opts_chunk$set(
 library(surf)
 ```
 
+# `click_graph`
+The following code chunk is set to eval=FALSE.
+````{r, eval=F}
+click_graph(plot(rnorm(10),rnorm(10)))
+````
+
 # `find_replace`
 ````{r}
 original<-c(3,10,3,1,5,2)
