@@ -20,9 +20,9 @@ Returns a data frame showing the original vector and the replacement. If no matc
 Performs a find replace on a vector by comparing to another vector. When no matches occur, the original value is retained.
 }
 \examples{
+#E.g., Search "original" for "1", "2", "3", "4", and replace with "blue","green","purple","yellow"
 original<-c(3,10,3,1,5,2)
 to.find<-c(1,2,3,4)
 to.replace<-c("blue","green","purple","yellow")
 find_replace(original,to.find,to.replace)
-#e.g. wherever a '1' occurs 'original' replace it with 'blue'
 }

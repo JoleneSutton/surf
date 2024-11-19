@@ -5,12 +5,12 @@
 #' @param to.match A vector that possibly contain matches to original. Must be same length as to.replace
 #' @param to.replace A vector of values to use when a match is found between original and to.match. Must be same length as to.match
 #' @return Returns a data frame showing the original vector and the replacement. If no match was found, the original be returned. Both columns are characters.
-#' @examples 
+#' @examples
+#' #E.g., Search "original" for "1", "2", "3", "4", and replace with "blue","green","purple","yellow"
 #' original<-c(3,10,3,1,5,2)
 #' to.find<-c(1,2,3,4)
 #' to.replace<-c("blue","green","purple","yellow")
 #' find_replace(original,to.find,to.replace)
-#' #e.g. wherever a '1' occurs 'original' replace it with 'blue'
 #' @export
 find_replace <- function(original,to.match,to.replace){#to.match and to.replace must have same lengths
   row<-array()
