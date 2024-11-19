@@ -1,4 +1,3 @@
-# surf (development version)
+# surf 0.0.0.9000
 
-# 2024-11-18
-* package creation
+* Package created.
