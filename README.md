@@ -18,8 +18,7 @@ You can install the development version of *surf* from
 devtools::install_github("JoleneSutton/surf")
 ```
 
-## Introduction
+## Overview
 
-The [Introduction
-vignette](https://jolenesutton.github.io/surf/articles/introduction.html)
-provides an overview of functions and their examples.
+A list of available functions and their descriptions can be found
+[here](https://jolenesutton.github.io/surf/reference/index.html).
