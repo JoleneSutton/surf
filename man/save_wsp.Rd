@@ -10,5 +10,5 @@ save_wsp(path)
 \item{path}{Path to save the workspace}
 }
 \description{
-Must execute within script
+Must execute from within script, not in console
 }

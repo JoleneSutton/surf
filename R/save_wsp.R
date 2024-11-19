@@ -1,6 +1,6 @@
 #' Save workspace with script name and today's date
-#' 
-#' Must execute within script
+#'
+#' Must execute from within script, not in console
 #' @param path Path to save the workspace
 #' @export
 save_wsp<-function(path){
