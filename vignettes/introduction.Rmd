@@ -17,3 +17,12 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(surf)
 ```
+
+# `find_replace`
+````{r}
+original<-c(3,10,3,1,5,2)
+to.find<-c(1,2,3,4)
+to.replace<-c("blue","green","purple","yellow")
+find_replace(original,to.find,to.replace)
+````
+
