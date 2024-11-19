@@ -3,7 +3,6 @@
 export(clean_string)
 export(click_graph)
 export(find_replace)
-export(format_df_names)
 export(make_cols)
 export(make_num_pretty)
 export(save_wsp)
